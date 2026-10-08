@@ -1,4 +1,4 @@
-aizen — Ficha de Herói
+Kaizen — Ficha de Herói
 
 
 Sobre o projeto
